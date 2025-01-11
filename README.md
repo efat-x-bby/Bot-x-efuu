@@ -1,6 +1,6 @@
 
 
-<p align="center"><img src="https://img.shields.io/badge/I Am AMINUL %20SORDAR-  AUTHOR CHANGE PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
+<p align="center"><img src="https://img.shields.io/badge/I AM CARL JOSHUA S JACALAN  %20SORDAR-  BOT MAKER PROGRAMMER-green?colorA=%23ff0000&colorB=%23017e40&style=flat-square">
 
 </i></b></h3>
 <h3 align="center">
